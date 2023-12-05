@@ -2,7 +2,7 @@
 layout: cv
 title: Ethan Johnson's Resume
 ---
-# Brigham Young
+# Ethan Johnson
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
