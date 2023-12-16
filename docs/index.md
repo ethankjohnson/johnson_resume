@@ -41,12 +41,14 @@ __Summer Intern__, YESCO | Las Vegas, NV
 __Youth Camp Counselor__, The Church of Jesus Christ of Latter-Day Saints | Utah & Arizona
   - FSY is a church-run youth group where teenagers spend a week away from family in groups with peers their age. They are taught church teaching, and life help skills, and play team-building games together.
   - I Led 7 groups of 10-20 teenagers over the summer with a co-counselor
-  - I worked in a team with my co-counselor to teach and chaperone these teenagers
+  - I worked in a team with my co-counselor to plan lessons, teach, chaperone them to and from classes and activities, and care for their general well-being.
   
 
 `2023-2025`
-__Full-Time Missionary__, Utah & Idaho
-
+__Full-Time Missionary__, Church of Jesus Christ of Latter-Day Saint | Utah & Idaho
+  - Two-year unpaid, full-time missionary.
+  - Served others in the community I was assigned, and planned and taught messages to people in those areas
+  - Lived full-time with a companion, we worked together as a team to set and achieve personal and area goals each week, and each month. 
 
 
 <!-- ### Footer
