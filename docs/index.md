@@ -27,7 +27,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Internships
 
 `August 2023 - September 2023`
-__YESCO Summer Intern__, Las Vegas, NV
+__Summer Intern__, YESCO | Las Vegas, NV
 
 - Worked in an office building along sales team and management.
 - Analyzed and revised technical information on 300+ lighting maintenance contracts.
@@ -38,9 +38,11 @@ __YESCO Summer Intern__, Las Vegas, NV
 ## Service and Work History
 
 `2025-2027`
-__Youth Camp Counselor__, Utah & Arizona
-
-Church of Jesus Christ of Latter-Day Saints
+__Youth Camp Counselor__, The Church of Jesus Christ of Latter-Day Saints | Utah & Arizona
+  - FSY is a church-run youth group where teenagers spend a week away from family in groups with peers their age. They are taught church teaching, and life help skills, and play team-building games together.
+  - I Led 7 groups of 10-20 teenagers over the summer with a co-counselor
+  - I worked in a team with my co-counselor to teach and chaperone these teenagers
+  
 
 `2023-2025`
 __Full-Time Missionary__, Utah & Idaho
