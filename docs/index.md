@@ -39,7 +39,8 @@ __YESCO Summer Intern__, Las Vegas, NV
 
 `2025-2027`
 __Youth Camp Counselor__, Utah & Arizona
-####Church of Jesus Christ of Latter-Day Saints
+
+Church of Jesus Christ of Latter-Day Saints
 
 `2023-2025`
 __Full-Time Missionary__, Utah & Idaho
