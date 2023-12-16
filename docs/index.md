@@ -38,11 +38,11 @@ __YESCO Summer Intern__, Las Vegas, NV
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Youth Camp Counselor__, Utah & Arizona
 
 
 `2023-2025`
-__Service Missionary__, South Africa
+__Full-Time Missionary__, Utah & Idaho
 
 
 
